@@ -1,0 +1,4 @@
+EXTM3U8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzO0vlGN5KQrB3kwtrHK04c27Ln3qYSnTTAj88jBsbSw&s" group-title="Sports", T Sports HD
+http://tv.cloudcdn.me/live.ts?channelId=48010&uid=12693&deviceMac=00:1A:79:2C:7A:34
